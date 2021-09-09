@@ -1,0 +1,37 @@
+     img{
+         max-width: 100%;
+     }
+  .pic img{
+      width: 41px;    
+  }
+  .navbar-1{
+      background-color: #cfdde7 !important; 
+        
+  }
+  .ccc{
+      background-color: #e9ecef;    
+      width: 638px;   
+      padding: 3px 30px;
+      margin-bottom: 10px;   
+  }
+  .bbb img{
+      width: 100% !important;
+      height: 450px !important;
+  } 
+  .alert-text{
+      color: #155724;
+      background-color: #d4edda;
+  }
+  .footer-1{
+      background-color: #17a2b8;     
+      color: #fff;
+  }
+  .toast-1{
+      color: #767676;
+  }
+  https://i.postimg.cc/BvCKNrFH/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background-144627-24860.jpg
+
+
+   <div class=" bbb carousel-item">
+      <img src="https://i.postimg.cc/BvCKNrFH/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background-144627-24860.jpg" class="d-block w-100" alt="...">
+    </div>
